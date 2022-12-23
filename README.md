@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YasarMert
 - 👀 I’m interested in programming and translating
-- 🌱 I currently dont do anything special other than studying for uni.
+- 🌱 I currently dont do anything special other than studying for university.
 - 📫 How to reach me? For now, u cant. (Other than github)
 
 <!---
