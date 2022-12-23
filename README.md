@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @YasarMert
-- 👀 I’m interested in Learning to program
-- 🌱 I’m currently learning nothing, but i know some c# and javascript but at the basic level.
-
-- 📫 How to reach me? @yasarmerturkmen
+- 👀 I’m interested in programming and translating
+- 🌱 I currently dont do anything special other than studying for uni.
+- 📫 How to reach me? For now, u cant. (Other than github)
 
 <!---
 YasarMert/YasarMert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
